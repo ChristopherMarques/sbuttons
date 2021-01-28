@@ -4549,7 +4549,7 @@ input[type="checkbox"].toggle-btn {
     linear-gradient(115deg, #4fcf70, #fad648, #a767e5, #12bcfe, #44ce7b);
   background-origin: padding-box, border-box;
   background-repeat: no-repeat;
-  border: 1.5px solid transparent;
+  border: 1px solid transparent;
   background-position: 0 0, 0% 50%;
   background-size: 100% 100%, 200% 200%;
 }
