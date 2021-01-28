@@ -4553,7 +4553,8 @@ input[type="checkbox"].toggle-btn {
   background-position: 0 0, 0% 50%;
   background-size: 100% 100%, 200% 200%;
 }
-.rainbow-border-btn:hover .rainbow-border-btn.animated {
+.rainbow-border-btn:hover,
+.rainbow-border-btn .animated {
   animation: colorwave 3.6s ease infinite;
 }
 @keyframes colorwave {
